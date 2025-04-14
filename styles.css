@@ -56,6 +56,21 @@ margin: 5px;
 
     }
 
+.gallery3 img{
+        margin: 12px;
+    }
+.gallery3{
+        background-color: rgb(255, 249, 249);
+        display: inline-block;
+        color: rgb(95, 85, 89);
+        font-family: Arial, Helvetica, sans-serif;      
+        text-align: center;
+        border: 2px solid rgb(92, 57, 33);
+        box-shadow: 4px;
+        margin: 5px;
+    
+        }
+
 .description{
     margin: 10px;
 
