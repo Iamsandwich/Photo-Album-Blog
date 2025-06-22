@@ -75,3 +75,26 @@ margin: 5px;
     margin: 10px;
 
 }
+
+button{
+ border: 0;
+ background-color: rgb(255, 223, 223);
+ margin: 3vh;
+ width: 5em;
+ border-radius: 60px;
+ position: inline;
+ align-self: center;
+
+}
+
+button:hover{
+background-color: rgb(200, 155, 126);
+}
+
+a{
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 2em;
+}
