@@ -71,6 +71,21 @@ margin: 5px;
     
         }
 
+.gallery4 img{
+        margin: 12px;
+    }
+.gallery4{
+        background-color: rgb(230, 196, 196);
+        display: inline-block;
+        color: rgb(79, 53, 63);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;      
+        text-align: center;
+        border: 2px solid rgb(92, 33, 64);
+        box-shadow: 4px;
+        margin: 5px;
+    
+        }
+
 .description{
     margin: 10px;
 
